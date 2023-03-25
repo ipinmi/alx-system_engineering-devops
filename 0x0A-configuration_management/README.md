@@ -12,7 +12,7 @@
 
 * **1. Install a package**
   * [1-install_a_package.pp](./1-install_a_package.pp): Puppet manifest file
-  that install puppet-lint version 2.1.1.
+  that install Install flask (Version must be 2.1.0)
 
 * **2. Execute a command**
   * [2-execute_a_command.pp](./2-execute_a_command.pp): Puppet manifest file
